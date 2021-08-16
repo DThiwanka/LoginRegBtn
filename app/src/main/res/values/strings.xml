@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="todo">TODO</string>
+    <string name="btn1">LOGIN</string>
+    <string name="btn2">REGISTER</string>
+    <string name="tv_test">REGISTER</string>
+    <string name="tv_login_test">LOGIN</string>
+    <string name="btn_log">Login</string>
+    <string name="btn_reg">Register</string>
+
+</resources>
