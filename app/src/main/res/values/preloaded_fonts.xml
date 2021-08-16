@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
         <item>@font/eagle_lake</item>
         <item>@font/kavivanar</item>
         <item>@font/marck_script</item>
+        <item>@font/oldenburg</item>
         <item>@font/rye</item>
     </array>
 </resources>
